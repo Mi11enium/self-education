@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Show Me The Money/Module 1 Introduction.md",
+            "file": "Show Me The Money/Module 2 Decision Making Unit (DMU).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show Me The Money/Module 1 Introduction.md",
+                "file": "Show Me The Money/Module 2 Decision Making Unit (DMU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Show Me The Money/Module 1 Introduction.md"
+                "file": "Show Me The Money/Module 2 Decision Making Unit (DMU).md"
               }
             }
           },
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7abd260ac31527f8",
+  "active": "582f63166e96cbf4",
   "lastOpenFiles": [
+    "Show Me The Money/Module 1 Introduction.md",
+    "Show Me The Money/Module 2 Decision Making Unit (DMU).md",
     "page_name.md",
     "README.md",
-    "Show Me The Money/Module 1 Introduction.md",
     "Самообразование/Как правильно читать книги.md",
     "Самообразование/Как изучать понятия.md",
     "Самообразование/Как выбрать книгу для чтения.md",
     "Книги/Думай и изобретай.md",
     "Компьютерные сети/Уровни/Прикладной уровень.md",
-    "Компьютерные сети/Уровни/Уровень представления.md",
-    "Компьютерные сети/Уровни/Транспортный уровень.md"
+    "Компьютерные сети/Уровни/Уровень представления.md"
   ]
 }
