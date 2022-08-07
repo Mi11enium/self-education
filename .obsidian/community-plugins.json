@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "highlightr-plugin",
+  "obsidian-admonition"
 ]

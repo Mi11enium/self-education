@@ -1,14 +1,43 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Цифровая грамотность/Интернет и поиск\"",
+      "color": {
+        "a": 1,
+        "rgb": 14736466
+      }
+    },
+    {
+      "query": "path:\"Тестирование программного обеспечения\"",
+      "color": {
+        "a": 1,
+        "rgb": 7368038
+      }
+    },
+    {
+      "query": "path:\"Компьютерные сети\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701276
+      }
+    },
+    {
+      "query": "path:Битрикс",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -17,6 +46,15 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "scale": 1.035354624872667,
+=======
+  "scale": 0.7384930490343379,
+>>>>>>> 68e4f1a380a46f41ee3e1995e8cb84eed13427a1
   "close": true
+=======
+  "scale": 0.7384930490343393,
+  "close": false
+>>>>>>> 608e6634e866ff63029c140f83255b2dcab35238
 }

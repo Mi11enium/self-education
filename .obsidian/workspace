@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "cd5b43f5438d2a16",
+    "id": "9b5357ffff9be5ca",
     "type": "split",
     "children": [
       {
-        "id": "582f63166e96cbf4",
+        "id": "f9bb005511bcea22",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Маркетинг/Закон убывающей предельной полезности.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4ec8fcfb3eeca3ab",
+    "id": "e8195094e7977400",
     "type": "split",
     "children": [
       {
-        "id": "4a713843693b1e22",
+        "id": "5e6f3e9eaf891306",
         "type": "tabs",
         "children": [
           {
-            "id": "7abd260ac31527f8",
+            "id": "a95e9c31c81e7453",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "6915ffbd6e693141",
+            "id": "43563ebba0a670f4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "78d84bf49a49ea6b",
+            "id": "ff326ec4892f8c06",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "ac5248d163e8e2f2",
+    "id": "437d561b3f83ddeb",
     "type": "split",
     "children": [
       {
-        "id": "0abd5906b3b761fe",
+        "id": "62e6b869ff090d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "3db08bf3c083c089",
+            "id": "17111a684aa8986e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Маркетинг/Закон убывающей предельной полезности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +84,7 @@
             }
           },
           {
-            "id": "4cda30d2b908b999",
+            "id": "58d0b3b51f988974",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -100,17 +95,15 @@
             }
           },
           {
-            "id": "6fcbec4cea5eb79c",
+            "id": "33528b0947c558d2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Маркетинг/Закон убывающей предельной полезности.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "ebed9948c684c3ef",
+            "id": "3eeab870aefdab3b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -124,17 +117,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "582f63166e96cbf4",
+  "active": "a95e9c31c81e7453",
   "lastOpenFiles": [
-    "Маркетинг/Полезность.md",
-    "Маркетинг/Закон убывающей предельной полезности.md",
-    "К размышлению/О вреде ненужных знаний.md",
-    "Книги/Думай и изобретай.md",
-    "Самообразование/Как выбрать книгу для чтения.md",
-    "Самообразование/Как правильно читать книги.md",
-    "Show Me The Money/Module 2 Decision Making Unit (DMU).md",
-    "Show Me The Money/Module 1 Introduction.md",
-    "page_name.md",
-    "README.md"
+    "Книги/Everything You Need to Ace Computer Science and Coding/Без названия.md",
+    "Для программы/Шаблон Понятия.md",
+    "Для программы/MarkDown.md",
+    "Компьютерные сети/Уровни/Физический уровень.md",
+    "Компьютерные сети/Уровни/Канальный уровень.md"
   ]
 }
