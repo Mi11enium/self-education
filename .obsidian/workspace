@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Книги/Everything You Need to Ace Computer Science and Coding/1. Computing Systems/What is computer science.md",
+            "file": "Видео/Software Testing Fundamentals/What is Software Testing.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги/Everything You Need to Ace Computer Science and Coding/1. Computing Systems/What is computer science.md",
+                "file": "Видео/Software Testing Fundamentals/What is Software Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Книги/Everything You Need to Ace Computer Science and Coding/1. Computing Systems/What is computer science.md"
+                "file": "Видео/Software Testing Fundamentals/What is Software Testing.md"
               }
             }
           },
@@ -124,8 +124,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9bb005511bcea22",
+  "active": "a95e9c31c81e7453",
   "lastOpenFiles": [
+    "К размышлению/README.md",
+    "Книги/Everything You Need to Ace Computer Science and Coding/1. Computing Systems/What is computer science.md",
     "Книги/Everything You Need to Ace Computer Science and Coding/Без названия.md",
     "Для программы/Шаблон Понятия.md",
     "Для программы/MarkDown.md",
