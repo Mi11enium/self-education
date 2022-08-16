@@ -21,11 +21,12 @@ Computer scientists use and create technology to solve problems. They program co
 Computer science is a type of problem solving; it includes the study of computers, their design, and the way they process information
 
 Examples of what computer science IS and IS NOT
-|Computer Science IS|Computer Science IS NOT|
-|---|---|
 
-|creating a phone app (appliaction or prorgam) tha allows friends to share funny cat videos with each other.
+| COMPUTER SCIENCE IS                                                                                                                           | COMPUTER SCIENCE IS NOT                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| creating a phone app (application or program) that allows friends to share funny cat videos with each other. programming your own video game. | watching videos on the internet of cats riding tricycles. playing your favorite video game. |
+|writing a program that calculates the answers to the math problems in your homework. writing a program to automatically post nice comments on your friends’ pictures. |doing your math homework on your school’s laptop. commenting on the latest picture your friend posted.                                                                                                                                              |                                                                                             |
 
-programming your own video game.| wathing videos on the internet of cats riding tricycles.
+All the examples in the IS NOT list only use technology, while the examples in the IS list create new technology.
 
-playing your favorite video game.|
+---
