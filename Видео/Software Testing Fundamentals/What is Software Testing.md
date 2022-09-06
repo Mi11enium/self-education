@@ -1,7 +1,8 @@
 # What is Software Testing?
-Software testing is a process used to identify the corretness, completeness and quality
+Software testing is a process used to identify the corretness, completeness and quality of developed computer software. It include a set of activities conducted with the intent of finding errors in software so that could be corrected before the product is released to the end users.
 
 
+In simple words, software testing is an activity to check that the software system is defect free.
 
 
 ISWTQB
